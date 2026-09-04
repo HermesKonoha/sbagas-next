@@ -24,7 +24,6 @@ export const Pricing = () => {
             plan={plan}
             button={(
               <a
-                id="agendar"
                 className={buttonVariants({
                   size: 'sm',
                   className: 'w-full',

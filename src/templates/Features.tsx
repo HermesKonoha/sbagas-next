@@ -4,7 +4,7 @@ import { Section } from '@/features/landing/Section';
 
 const SCISSORS_ICON = (
   <svg
-    className="stroke-primary-foreground stroke-2"
+    className=""
     xmlns="http://www.w3.org/2000/svg"
     viewBox="0 0 24 24"
     fill="none"

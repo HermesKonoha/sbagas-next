@@ -27,10 +27,6 @@ export const Navbar = () => {
         </li>
 
         <li>
-          <a href="#barbeiros">Barbeiros</a>
-        </li>
-
-        <li>
           <a href="#contato">Contato</a>
         </li>
       </CenteredMenu>

@@ -5,7 +5,7 @@ export const CTABanner = (props: {
 }) => (
   <div
     className="
-      rounded-xl bg-primary bg-linear-to-br from-amber-500 to-amber-700
+      rounded-xl bg-primary bg-linear-to-br from-primary to-primary/70
       px-6 py-10 text-center
     "
   >

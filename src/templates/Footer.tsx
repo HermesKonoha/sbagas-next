@@ -29,10 +29,6 @@ export const Footer = () => {
         </li>
 
         <li>
-          <a href="#barbeiros">Barbeiros</a>
-        </li>
-
-        <li>
           <a href="#contato">Contato</a>
         </li>
       </CenteredFooter>

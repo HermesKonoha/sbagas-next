@@ -37,7 +37,7 @@ export const CenteredFooter = (props: {
         "
       >
         <div>
-          {`Navalha Barbearia © ${new Date().getFullYear()}`}
+          {`${props.name} © ${new Date().getFullYear()}`}
         </div>
 
         <ul

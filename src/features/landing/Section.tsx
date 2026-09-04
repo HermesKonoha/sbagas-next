@@ -14,7 +14,7 @@ export const Section = (props: {
         {props.subtitle && (
           <div
             className="
-              bg-linear-to-r from-amber-500 to-amber-700
+              bg-linear-to-r from-primary to-primary/70
               bg-clip-text text-sm font-bold text-transparent
             "
           >

@@ -6,7 +6,7 @@ export const FeatureCard = (props: {
   <div className="rounded-xl border border-border bg-background p-5">
     <div
       className="
-        size-12 rounded-lg bg-linear-to-br from-amber-400 to-amber-600
+        size-12 rounded-lg bg-linear-to-br from-primary to-primary/70
         p-2
         [&_svg]:stroke-white [&_svg]:stroke-2
       "
