@@ -4,6 +4,18 @@ import '@/styles/global.css';
 export const metadata: Metadata = {
   title: 'Barbearia Navalha — Cortes, barba e cuidados com precisão',
   description: 'Cortes, barba e cuidados com a precisão que você merece. Planos mensais a partir de R$79.',
+  openGraph: {
+    title: 'Barbearia Navalha — Cortes, barba e cuidados com precisão',
+    description: 'Cortes, barba e cuidados com a precisão que você merece. Planos mensais a partir de R$79.',
+    type: 'website',
+    locale: 'pt_BR',
+    siteName: 'Barbearia Navalha',
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'Barbearia Navalha — Cortes, barba e cuidados com precisão',
+    description: 'Cortes, barba e cuidados com a precisão que você merece. Planos mensais a partir de R$79.',
+  },
   icons: [
     {
       rel: 'apple-touch-icon',

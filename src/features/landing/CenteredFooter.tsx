@@ -19,6 +19,7 @@ export const CenteredFooter = (props: {
         {props.children}
       </ul>
 
+      {props.iconList && (
       <ul
         className="
           mt-4 flex flex-row gap-x-5 text-primary
@@ -28,6 +29,7 @@ export const CenteredFooter = (props: {
       >
         {props.iconList}
       </ul>
+      )}
 
       <div
         className="

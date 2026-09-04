@@ -30,6 +30,7 @@ export const Hero = () => {
             </a>
 
             <a
+              aria-label="Agendar horário"
               className={buttonVariants({ size: 'lg' })}
               href="#agendar"
             >
